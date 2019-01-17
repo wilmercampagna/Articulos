@@ -2,15 +2,15 @@
 
 <div align="center"><a> <img src="https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"> (La mayoría de imagenes presentadas aquí son cortesia de pexels) </a></div>
 
-
+##
 Hola amigo(a) soy Wilmer Campagna, uno de los administradores del grupo de telegram Hablemos de Vuejs y hoy quiero compartir contigo una ruta que puedes seguir para aprender a hacer desarrollo web.
 Voy a iniciar con lo básico que necesitas aprender para hacer desarrollo web frontend (html, css y JavaScript), así que, si ya tienes un buen nivel de ello, pasa a la siguiente sección que es Conociendo VUEJS.
 
 ## Conceptos Básicos
 Lo primero que te preguntarás es ¿qué es desarrollo web?, pues bueno no es más que el uso de diferentes tecnologías para la construcción de sitios web que puedes explorar con los diferentes navegadores existentes. Actualmente con la variedad de tecnologías puedes encontrar sitios web del tipo Landing page, que son las típicas páginas web de presentación de las empresas (ej: https://constructoranormandia.com ), también puedes encontrar las webApps que son sitios web que tienen una alta funcionalidad de tal manera que puedes ejecutar acciones como si lo estuvieras haciendo en una aplicación de escritorio (ej: https://designer.gravit.io ). Otros conceptos que escucharás son web estáticas, Spa, Ssr, Pwa, conceptos que ampliaré más adelante.
-```
+
 Antes de continuar quiero comentarte que en el desarrollo web hay dos grandes frentes, uno es el desarrollo backend y otro es el desarrollo frontend. El backend es la estructura que soporta las web apps, es como el esqueleto y el sistema nervioso del cuerpo humano. El backend maneja y gestiona el servidor y los datos que puedan llegar a requerirse en la vista que se muestra en el navegador, en el backend se maneja la mayor parte de la lógica de programación de los sitios web. El frontend se dedica a la construcción de elementos visuales que interaccionan con los usuarios a través del navegador, en el frontend también se desarrolla una lógica de programación que permite que el usuario solicite información al backend.
-```
+
 ### Html
 <div align="center"><a> <img src="https://as1.ftcdn.net/jpg/00/71/68/84/500_F_71688432_dNCdeMsZpwcJj4A1zEvhPWyAI36JLrbo.jpg"> </a></div>
 
@@ -30,22 +30,22 @@ Aunque, te comento que a día de hoy JavaScript es un lenguaje de programación 
 ### Frameworks
 <div align="center"><a> <img src="https://udemy-images.udemy.com/course/750x422/1208638_2604.jpg"> Tomada de https://udemy-images.udemy.com/course/750x422/1208638_2604.jpg </a></div>
 
-```
+
 El desarrollo web ha evolucionado muchísimo y a día de hoy hay tantas opciones para hacerlo, que sin una guía adecuada no se sabría por dónde empezar. 
 Para hacer más fácil, más rápido y de mejor calidad el desarrollo web, se han desarrollado Frameworks, que lo podemos traducir como entornos de trabajo que conjugan diferentes herramientas en un mismo lugar. 
 Entre los frameworks más populares al día de hoy encontramos a Angular, React y Vue, siendo Vue el framework que te recomendaré y del cual hablaré un poco más adelante.
-```
+
 
 ## Conociendo VUEJS.
 <div align="center"><a> <img src="https://cdn-images-1.medium.com/max/2600/1*IPTRjl2GyBeNrBnbvB714A.jpeg"> </a>Tomada de https://itnext.io/four-tips-for-working-with-vue-js-b362d97de852</div>
 
+
 Vuejs a día de hoy es un framework de desarrollo web bastante robusto y maduro. Vue es muy atractivo por su flexibilidad, elegancia y su rápida curva de aprendizaje. Si bien Vue es muy fácil si lo comparamos a sus homólogos React o Angular, ello no quiere decir que vas a poder desarrollar con él sin invertirle al menos unas 40 horas a su aprendizaje. Por tanto, si quiero que tengas bien claro lo anterior porque me encuentro frecuentemente personas que llegan diciendo cosas como: “Necesito desarrollar un proyecto en dos semanas y me dijeron que Vue era muy fácil y por ello lo voy a hacer en Vue” este tipo de cosas son ajenas a la realidad y si llegaste aquí porque necesitas presentar algo para mañana, quizá estás en el lugar equivocado.
 
-```
 Ahora bien, antes de empezar a aprender Vue te recomiendo encarecidamente aprendas muy bien html y css y tengas un nivel medio de JavaScript. Lo anterior lo digo porque también he visto personas preguntando cosas como: “¿Cómo hago para que Vue multiplique dos variables y la guarde en una tercera, o cómo hago para que Vue le ponga un color de fondo a un contenedor?”. Esas cosas las hace JavaScript o Css, como lo dije anteriormente vue es un framework y lo que hace es una excelente gestión entre herramientas como lo son el html, css y js.
 
 Algo que te quiero aclarar es que Vue nació como una librería que se puede incrustar en diferentes tipos de proyecto con un cdn y ese es el Vue 1.0. Para su versión 2.0, Vue se convirtió en un framework con su propio Cli que te permite iniciar con plantillas basadas en webpack y es sobre ese framework que te recomiendo que trabajes.
-```
+
 ### Por donde empiezo?
 <div align="center"><a> <img src="https://www.filepicker.io/api/file/LTexDCxReWYPggmTfVAx"> </a></div>
 Ahora si, para aprender Vue hay un montón de cursos muy buenos, sin embargo el que recomiendo es el curso de Juan Andrés Nuñez el cuál se encuentra disponible en su web https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso. Aquí empezarás a aprender los conceptos básicos usando el cdn y cuando avances empezaras a trabajar con plantillas creadas con el Cli.
@@ -84,13 +84,13 @@ Para terminar, quiero brindarte algunos pequeños concejos para interactuar en d
 ## Reglas no escritas de los grupos.
 <div align="center"><a> <img src="https://nanoproyectos.com/wp-content/uploads/2014/07/Basa-el-%C3%A9xito-en-tus-propias-reglas.jpg"> </a> Imagen tomada de  https://nanoproyectos.com/wp-content/uploads/2014/07/Basa-el-%C3%A9xito-en-tus-propias-reglas.jpg </div>
 
-```
+
 1.	Cuando llegues a un grupo por primera vez saluda, preséntate, interacciona un poco con los miembros y luego ya comenta porque estás allí. No llegues diciendo: “Vine porque tengo un problema y quiero que me ayuden a solucionarlo”. Sin bien los grupos son para que los usuarios se ayuden entre sí, es grosero llegar diciendo ayudaaaaa.
 2.	Si estás desarrollando un proyecto como freelancer, no esperes llegar a un grupo y que el grupo lo desarrolle por ti.
 3.	Usa los grupos como último recurso para solucionar tus dudas. Créeme que todos hemos tenido problemas cuando hemos estado aprendiendo, y esos problemas ya están recopilados en la web, así que, si buscas en stackoverflow o en el mismo google y lees un poco, encontrarás la respuesta a tus dudas. Si ya agotaste esas instancias y moliste la documentación y aún tienes dudas, entonces el grupo está allí para ti.
 4.	Llegados hasta aquí recomendarte que leas, tomes video cursos y aprendas todo lo que puedas por tu parte y de esa manera podrás aportar a los grupos y no solo ser el que tiene dudas de todo.
 5.	Se humilde, no dejes de educarte y mantén la actitud del eterno novato, siempre con ganas de aprender algo nuevo. Se amable con las personas que saben menos que tú y trata de ayudar como te han ayudado a ti.
-```
+
 No siendo más, espero verte por nuestro grupo https://t.me/vuejsEs y si deseas escribirme puedes hacerlo a wilmercampagna@gmail.com.
 
 Un fuerte abrazo y mucho ánimo en tu aprendizaje, estamos para ayudarte en lo que podamos. 
