@@ -20,7 +20,8 @@ Html es un lenguaje de etiquetado que te permite estructurar el posicionamiento 
 
 ### Css
 <div align="center"><a> <img src="https://as2.ftcdn.net/jpg/00/65/06/45/500_F_65064508_oOSWiltoSW8DhiR0ytn9hIV8A0g9tBbX.jpg"> </a></div>
-Tan pronto tengas conocimientos medios de html, deberás empezar a aprender Css. El css es un lenguaje que te permite estilizar tus vistas, agregar colores, tamaños, contenedores que hagan que tu vista se vea bonita y permita una excelente interacción con el usuario. Para aprender Css también te recomiendo tomar el curso del Canal de Juán Andrés Nuñez (https://www.youtube.com/watch?v=2yJEkP2y4nY&list=PLM-Y_YQmMEqBxAQxxNW7J7-BTJdj_Ol3F).
+
+Tan pronto tengas conocimientos medios de html, deberás empezar a aprender Css. El css es un lenguaje que te permite estilizar tus vistas, agregar colores, tamaños, contenedores que hagan que tu vista se vea bonita y permita una excelente interacción con el usuario. Para aprender Css también te recomiendo tomar el [curso del Canal de Juán Andrés Nuñez (click)](https://www.youtube.com/watch?v=2yJEkP2y4nY&list=PLM-Y_YQmMEqBxAQxxNW7J7-BTJdj_Ol3F).
 
 ### JavaScript
 <div align="center"><a> <img src="https://as1.ftcdn.net/jpg/00/90/17/24/500_F_90172467_Y0IxUEUBBkcdH3dxqzvbkQINRvxad1o1.jpg"> </a></div>
