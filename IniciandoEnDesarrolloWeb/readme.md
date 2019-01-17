@@ -14,7 +14,9 @@ Antes de continuar quiero comentarte que en el desarrollo web hay dos grandes fr
 ### Html
 <div align="center"><a> <img src="https://as1.ftcdn.net/jpg/00/71/68/84/500_F_71688432_dNCdeMsZpwcJj4A1zEvhPWyAI36JLrbo.jpg"> </a></div>
 
-Ahora sí, después de esa larga introducción comencemos, para hacer desarrollo frontend lo primero que deberás aprender es html, para ello te recomiendo tomes el curso de Juan Andrés Nuñez desde su canal de Youtube (https://www.youtube.com/watch?v=TBEQ8WuAUYY&list=PLM-Y_YQmMEqCae2LNXpk7S6zCjiZQ3252). Html es un lenguaje de etiquetado que te permite estructurar el posicionamiento de la información a través de las vistas.
+Ahora sí, después de esa larga introducción comencemos, para hacer desarrollo frontend lo primero que deberás aprender es html, para ello te recomiendo tomes el curso de Juan Andrés Nuñez [desde su canal de Youtube (click)](https://www.youtube.com/watch?v=TBEQ8WuAUYY&list=PLM-Y_YQmMEqCae2LNXpk7S6zCjiZQ3252).
+
+Html es un lenguaje de etiquetado que te permite estructurar el posicionamiento de la información a través de las vistas.
 
 ### Css
 <div align="center"><a> <img src="https://as2.ftcdn.net/jpg/00/65/06/45/500_F_65064508_oOSWiltoSW8DhiR0ytn9hIV8A0g9tBbX.jpg"> </a></div>
@@ -25,7 +27,7 @@ Tan pronto tengas conocimientos medios de html, deberás empezar a aprender Css.
 Una vez tengas conocimientos fuertes de html y css necesitarás aprender JavaScript, el cual es un lenguaje de programación que te permite gestionar la lógica que puedas llegar a necesitar en tus vistas, como emitir un evento al presionar un botón o mostrar/ocultar una sección de tu vista al hacer clic o posicionar tu mouse sobre alguna sección de tu vista, etc.
 
 Aunque, te comento que a día de hoy JavaScript es un lenguaje de programación que ha ido mucho más allá de gestionar la lógica de las vistas y se encuentra en desarrollo móvil, en desarrollo backend, en aplicaciones de escritorio y en un sin número de aplicaciones que conocerás a medida que avances en tu camino de aprendizaje. Para aprender lo básico
- de JavaScript te recomiendo el curso del canal de Código Facilito (https://www.youtube.com/watch?v=H5NdtjnO2Fk&list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz).
+ de JavaScript te recomiendo el [ curso del canal de Código Facilito (click)](https://www.youtube.com/watch?v=H5NdtjnO2Fk&list=PLpOqH6AE0tNhQ3KW1DPc18xZfLfjX5Xuz).
 
 ### Frameworks
 <div align="center"><a> <img src="https://udemy-images.udemy.com/course/750x422/1208638_2604.jpg"> Tomada de https://udemy-images.udemy.com/course/750x422/1208638_2604.jpg </a></div>
@@ -48,7 +50,9 @@ Algo que te quiero aclarar es que Vue nació como una librería que se puede inc
 
 ### Por donde empiezo?
 <div align="center"><a> <img src="https://www.filepicker.io/api/file/LTexDCxReWYPggmTfVAx"> </a></div>
-Ahora si, para aprender Vue hay un montón de cursos muy buenos, sin embargo el que recomiendo es el curso de Juan Andrés Nuñez el cuál se encuentra disponible en su web https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso. Aquí empezarás a aprender los conceptos básicos usando el cdn y cuando avances empezaras a trabajar con plantillas creadas con el Cli.
+
+
+Ahora si, para aprender Vue hay un montón de cursos muy buenos, sin embargo el que recomiendo es el curso de Juan Andrés Nuñez el cuál se encuentra [disponible en su web (click)](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso). Aquí empezarás a aprender los conceptos básicos usando el cdn y cuando avances empezaras a trabajar con plantillas creadas con el Cli.
 
 Todos los cursos que he mencionado son de acceso gratuito y son muy buenos. En el bot de nuestro grupo hay disponibles otros cursos de acceso gratuito, a los cuales podrás acceder a través del comando bot cursos web. (si no te encuentras en nuestro grupo de telegram podrás acceder a él a través del siguiente enlace  https://t.me/vuejsEs).
 
